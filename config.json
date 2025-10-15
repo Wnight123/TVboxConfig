@@ -21,7 +21,11 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": ""
+            "ext": {
+                "header": {
+                    "cookie": "ge_wc_157=Y0KA/2R/fRlxWWln6TJkriR2Mg=="
+                }
+            }
         },
         {
             "key": "无尽1",
