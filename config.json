@@ -6,7 +6,7 @@
         {
             "key": "瀑布",
             "name": "瀑布",
-            "type": 0,
+            "type": 1,
             "api": "https://dh.ha.cn/api.php/provide/vod/at/josn/",
             "searchable": 1,
             "quickSearch": 1,
