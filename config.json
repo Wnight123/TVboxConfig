@@ -10,7 +10,7 @@
             "api": "https://dh.ha.cn/api.php/provide/vod/at/josn/",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0
         },
         {
             "key": "非凡资源",
@@ -19,7 +19,7 @@
             "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0
         }
     ],
     "parses": [
