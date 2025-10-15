@@ -6,7 +6,7 @@
         {
             "key": "非凡",
             "name": "非凡",
-            "type": 3,
+            "type": 4,
             "api": "https://dh.ha.cn/api.php/provide/vod/at/josn/",
             "searchable": 1,
             "quickSearch": 1,
