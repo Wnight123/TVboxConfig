@@ -6,15 +6,15 @@
         {
             "key": "瀑布",
             "name": "瀑布",
-            "type": 1,
+            "type": 0,
             "api": "https://dh.ha.cn/api.php/provide/vod/at/josn/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "非凡资源",
-            "name": "非凡资源",
+            "key": "非凡",
+            "name": "非凡",
             "type": 0,
             "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
             "searchable": 1,
@@ -22,10 +22,118 @@
             "filterable": 1
         },
         {
-            "key": "无尽资源",
-            "name": "无尽资源",
+            "key": "无尽",
+            "name": "无尽",
             "type": 0,
             "api": "https://api.wujinapi.me/api.php/provide/vod/at/xml/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "瀑布1",
+            "name": "瀑布1",
+            "type": 1,
+            "api": "https://dh.ha.cn/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "非凡1",
+            "name": "非凡1",
+            "type": 1,
+            "api": "http://api.ffzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "无尽1",
+            "name": "无尽1",
+            "type": 1,
+            "api": "https://api.wujinapi.me/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "瀑布2",
+            "name": "瀑布2",
+            "type": 2,
+            "api": "https://dh.ha.cn/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "非凡2",
+            "name": "非凡2",
+            "type": 2,
+            "api": "http://api.ffzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "无尽2",
+            "name": "无尽2",
+            "type": 2,
+            "api": "https://api.wujinapi.me/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "瀑布3",
+            "name": "瀑布3",
+            "type": 3,
+            "api": "https://dh.ha.cn/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "非凡3",
+            "name": "非凡3",
+            "type": 3,
+            "api": "http://api.ffzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "无尽3",
+            "name": "无尽3",
+            "type": 3,
+            "api": "https://api.wujinapi.me/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "瀑布4",
+            "name": "瀑布4",
+            "type": 4,
+            "api": "https://dh.ha.cn/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "非凡4",
+            "name": "非凡4",
+            "type": 4,
+            "api": "http://api.ffzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "无尽4",
+            "name": "无尽4",
+            "type": 4,
+            "api": "https://api.wujinapi.me/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -162,7 +270,7 @@
             }
         },
         {
-            "name": "非凡资源",
+            "name": "非凡",
             "type": 0,
             "url": "https://svip.ffzyplay.com/?url=",
             "ext": {
