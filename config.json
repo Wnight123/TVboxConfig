@@ -2,6 +2,18 @@
     "spider": "https://www.lequxiang.com.cn/down.php/0cfc151f61eab98d9c003e01a8f2dae1.txt;md5;0cfc151f61eab98d9c003e01a8f2dae1",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
+    "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "url": "https://epg.pw/test_channels.m3u",
+            "playerType": 1,
+            "ua": "okhttp/3.8.1",
+            "timeout": 20,
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
     "sites": [
         {
             "key": "瀑布1",
